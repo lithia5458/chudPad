@@ -1,0 +1,5 @@
+#define ENCODERS_PAD_A { GP0 } 
+#define ENCODERS_PAD_B { GP4 }
+#define NUM_ROTARY_ENCODERS 1
+
+#define OLED_DISPLAY_128X32 
